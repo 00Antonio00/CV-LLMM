@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color:rgb(34, 52, 86);
+    height: 800px;
+    width: 200px;
+    color: white;
+    
+
+}
+.header img{
+    margin-top: 100px;
+    width: 190px;
+    height: 180px;
+    border-radius: 150px;
+    margin-left: 2px;
+    border: 3px solid white;
+}
+.header .content{
+    width: 1500px;
+    height: 150px;
+    background-color: rgb(96, 95, 95);
+    margin-top: -200px;
+    
+}
+.header .content h1{
+     text-align: center;
+     padding: 50px;
+     
+}
+.info{
+    text-align: center;
+    margin: 0;
+    font-size: large;
+    color: black;
+    margin-left: 250px;
+    
+
+}
+.info p{
+    margin-top: 120px;
+    width: 1100px;
+    background-color: aquamarine;
+}
