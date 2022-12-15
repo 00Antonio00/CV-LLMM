@@ -69,38 +69,32 @@ a:hover{
     background-color: #2C7873;
 }
 .dinfo{
-    text-align: center;
+    text-align: left;
     margin: 0;
     font-size: large;
     color: black;
     margin-left: 250px;
     margin-top: -100px;
 }
-.dinfo p{
+.dinfo{
     margin-top: 110px;
     width: 1200px;
     background-color: #6FB98F;
     height: 300px;
     padding-top: 40px;
+    text-align: left;
 }
-
-.dinfo .aptitudes{
-    background-color: #6FB98F;
-    margin-top: -200px;
-    width: 300px;
+.dinfo li{
+    list-style-type:lower-greek;
+    padding: 10px
 }
-.dinfo .objetivos{
-    background-color: #6FB98F;
-    margin-top: -150px;
-    width: 300px;
-    margin-left: 800px;
-}
-.foto .img_foto{
-    margin-left: 470px;
-    margin-top: -800px;
-    width: 190px;
-    height: 180px;
-    
+.foto_chico{
+    margin-top: 100px;
+    width: 90px;
+    height: 90px;
+    border-radius: 150px;
+    margin-left: 2px;
+    border: 3px solid white;
 }
 .tinfo{
     text-align: center;
@@ -108,15 +102,16 @@ a:hover{
     font-size: large;
     color: black;
     margin-left: 250px;
-    margin-top: 120px;
+    margin-top: -380px;
 }
+
 .tinfo p{
     margin-top: -100px;
     width: 1100px;
     background-color: #2C7873;
 }
 .cinfo{
-    margin-top: -10px;
+    margin-top: -250px;
     margin-left: 250px;
     width: 1200px;
     background-color: #6FB98F;
@@ -155,7 +150,3 @@ a:hover{
 
 
 }
-
-
-
-
